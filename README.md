@@ -18,3 +18,4 @@ For different settings, please alter the files under ```options```.
 
 [LearningToCompare_FSL](https://github.com/floodsung/LearningToCompare_FSL)  
 [CNNDetection](https://github.com/PeterWang512/CNNDetection)
+[IBN-Net](https://github.com/XingangPan/IBN-Net)
